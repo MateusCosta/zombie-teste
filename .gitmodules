@@ -1,0 +1,4 @@
+[submodule "ApocalypticShelter.API"]
+	path = ApocalypticShelter.API
+	url = https://github.com/MateusCosta/ApocalypticShelter.API.git
+	branch = master

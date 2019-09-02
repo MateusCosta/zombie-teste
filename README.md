@@ -31,3 +31,6 @@ Dividimos seu desafio em três níveis:
 - Siga as boas práticas do git (exemplo: ao concluir um dos níveis faça um commit bem descrito)
 - Utilize ASP.NET MVC 5+/WebAPI (C#), para desenvolver a aplicação
 - Fique a vontade para definir a stack front-end (KnockoutJS, Angular, Aurelia, React, JQuery, Stylus, PostCSS, SASS, Gulp, Grunt, etc...)
+
+## Os módulos adicionais estão como submódulos. Utilize este comando para baixar as dependências:
+`git clone --recursive [URL to Git repo]`
